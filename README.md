@@ -1,5 +1,5 @@
 # WhatsApp-Chat-Analyzer-App
-A Platform where you get to know the statistics about the person or the whatsapp group ypu are add in on uploading the chat.txt file. You can figure ou to how many messages, links, media messages are shared with that user or group along side daily , monthly stats with the emojis most shared and atlast sentiment analysis to know the detail that how much responses were positive or negative through pie chart.
+A Platform where you get to know the statistics about the person or the whatsapp group you are add in on uploading the chat.txt file. You can figure out to how many messages, links, media messages are shared with that user or group along side daily , monthly stats with the emojis most shared and atlast sentiment analysis to know the detail that how much responses were positive or negative through pie chart.
 
 
 -Using streamlit for frontend of the App
